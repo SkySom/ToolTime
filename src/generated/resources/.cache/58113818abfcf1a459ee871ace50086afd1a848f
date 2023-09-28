@@ -1,0 +1,6 @@
+// 1.19.2	2023-09-27T19:21:36.97136	Registrate Provider for tooltime [Recipes, Advancements, Loot tables, Tags (blocks), Tags (items), Tags (fluids), Tags (entity_types), Blockstates, Item models, Lang (en_us/en_ud)]
+91601126dd7952f7eacb75cb5c4d0e48374725de assets/tooltime/lang/en_ud.json
+bf7ca90b54e5d415bf2943e70419c9cacc88eea7 assets/tooltime/lang/en_us.json
+8ec0a993ef8c8a4d6f3ca1eb604402d7abc7944a assets/tooltime/models/item/diamond_hilt.json
+2085e1631421d7cc1b6d7593086cef7691004ef3 assets/tooltime/models/item/iron_blade.json
+effa471fd190ff771f83e14e21dc851023328407 assets/tooltime/models/item/sword.json
